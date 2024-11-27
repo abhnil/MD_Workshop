@@ -8,6 +8,12 @@ The notebooks cover:
 - plotting key variables from the cmip6 dataset.
 - producing climate stripes from the accessed cmip6 dataset.
 
+# Testing the code
+You can run the code in these notebooks on your own machine without downloading any of the requirements using binder. Note - the code will be much slower on binder than on your own machine. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhnil/MD_Workshop/main)
+
+
+
 
 # Requirements
 Clone this repository into your local directory.
